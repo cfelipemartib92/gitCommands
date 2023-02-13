@@ -12,6 +12,7 @@
     * A = esta en área temporal (staging area) (monitoreo)
     *   = No aparece nada  - ya está en repositiorio local
     * M = Está modificado sin guardar el cambio (sin respaldar)
+    * D = 
 
 0. 5 Configuración cuando sea necesario 
     * git config --global user.username "Juan"
@@ -45,3 +46,4 @@
     * Restauración del archvio al commit que queremos restaurar (borra todas las instantaneas hasta ese punto)
 
 
+D:\Node\07-Practica 
