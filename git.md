@@ -35,6 +35,8 @@
     * Donde se crea el respaldo en el rep local
     * Se puede hacer un respaldo de lo que ha sido modificado M con un add y luego el commit
 
+    3.5 Se pueden hacer las dos operaciones al mismo tiempo: %_ git commit -am "xxx"
+
 4. Comprobar la constancia %_ git status -s
     * Listado de todos los archivos que tenemos en el proyecto
     * Los ? significan que ninguno tiene seguimiento de git
@@ -44,6 +46,11 @@
 
 6. Para restaurar un commit anterior: %_ git reset --hard (código a restaurar)
     * Restauración del archvio al commit que queremos restaurar (borra todas las instantaneas hasta ese punto)
+
+7. Subir una copia de seguridad en github: 
+    * Copia de seguridad en lka nube para rescatarlo
+
+
 
 
 D:\Node\07-Practica 
