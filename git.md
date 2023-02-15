@@ -50,6 +50,38 @@
 7. Subir una copia de seguridad en github: 
     * Copia de seguridad en lka nube para rescatarlo
 
+8. Para modificar el nombre de un commit: %_ git commit --amend
+    * abrimos el editor bim
+        * Comando para emepzar a editar %_ :i
+        * Pone un nombre
+         Cierra con : %_ :wq! (para sobreescribir y listo)
+
+9. Subir un repositorio que ya existe
+    * %_ git remote add origin https://github.com/cfelipemartib92/gitCommands.git
+    * %_ git branch -M main
+    * %_ git push -u origin main
+
+10. Traer pequeñas modificaciones realizados en gitHub al local: %_ git pull 
+
+11. Usamos Tags - especificamos versiones del proyecto: 
+    * %_ git tag "nombre-id" -m "Versión 1 del projecto"
+    * Quiere decir que creamos la versión 1 del proyecto tag en local
+    * Subimos el tag:
+        * %_ git push --tags
+
+12. Clonar el repositorio: %_ git clone ("Url de github con el code del repo")
+    * Se necesita copiar la url del proyecto en code->copiar
+    * Se hace desde el bash abierto en lña carpeta donde voy a clonar
+
+13. Crear ramas: %_ git branch 'nombre'
+
+14. Ver las ramas del projecto: %_ git branch y en cual me encuentro
+    - la que tiene el * es en la que me encuentro
+
+15. Moverme a una rama nueva: %_ git checkout (nombre de rama a la que me queiro mover)
+    * Desde acá ya puedo add. commit y push
+
+
 
 
 
