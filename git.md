@@ -81,7 +81,7 @@
 15. Moverme a una rama nueva: %_ git checkout (nombre de rama a la que me queiro mover)
     * Desde acá ya puedo add. commit y push
 
-
+16. Para hacer un merge vamos a la rama master y comando: 
 
 
 
