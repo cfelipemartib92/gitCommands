@@ -88,11 +88,10 @@
 16. Para hacer un merge desde la rama master comando: %_ git merge (tama para merge) 
     * Resolver conflictos
 
-17. Para utilizar las herramientas de visual studio Code
+17. Borrar Rama que ya mergie y no sirve: %_ git branch -d "Nombre de la rama"
+    * Se borra el log --oneline
+
+18. Para utilizar las herramientas de visual studio Code y tambien desde la barra de abajo para maniobrar el git
     * Podemos crear nuevas branches
     * Commit directamente sin add con el chulito o ctrl + enter
-    * 
-
-
-
-D:\Node\07-Practica 
+    * Aceptar los both changes
