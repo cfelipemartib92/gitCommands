@@ -88,6 +88,10 @@
 16. Para hacer un merge desde la rama master comando: %_ git merge (tama para merge) 
     * Resolver conflictos
 
+17. Borrar Rama que ya mergie y no sirve: %_ git branch -d "Nombre de la rama"
+    * Se borra el log --oneline
+
+18. Podemos usar herramientas de VS para maniobrar el git y tambien desde la barra de abajo para maniobrar el git
 
 
 D:\Node\07-Practica 
