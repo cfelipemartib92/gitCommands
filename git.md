@@ -16,6 +16,7 @@
     Simbolos en Visual studio
         * U = Unfollow
         * A = Added 
+        * M = Modified
 
 0. 5 Configuración cuando sea necesario 
     * git config --global user.username "Juan"
