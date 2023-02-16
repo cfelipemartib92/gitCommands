@@ -13,6 +13,9 @@
     *   = No aparece nada  - ya está en repositiorio local
     * M = Está modificado sin guardar el cambio (sin respaldar)
     * D = 
+    Simbolos en Visual studio
+        * U = Unfollow
+        * A = Added 
 
 0. 5 Configuración cuando sea necesario 
     * git config --global user.username "Juan"
@@ -81,7 +84,8 @@
 15. Moverme a una rama nueva: %_ git checkout (nombre de rama a la que me queiro mover)
     * Desde acá ya puedo add. commit y push
 
-16. Para hacer un merge vamos a la rama master y comando: 
+16. Para hacer un merge desde la rama master comando: %_ git merge (tama para merge) 
+    * Resolver conflictos
 
 
 
