@@ -98,8 +98,10 @@
 
 19. Crear Git clone:
     * Crea un repop nuevo y copia url 
-    -> Abre VScode vacio 
-    -> abre buscador ctrl p
-    -> escribe git clone y monto la url del repositorio
-    -> Nos pide el repositorio donde vamos aclonar
-    -> 
+    * Abre VScode vacio 
+    * abre buscador ctrl p
+    * escribe git clone y monto la url del repositorio
+    * Nos pide el repositorio donde vamos aclonar
+
+20. Se puede hacer pull y push automático desde el simbolo de sincronizar de abajo a la izquierda
+    * (Tiene que estar en commit todos los archivos del VS)
