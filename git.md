@@ -95,3 +95,10 @@
     * Podemos crear nuevas branches
     * Commit directamente sin add con el chulito o ctrl + enter
     * Aceptar los both changes
+
+19. Crear Git clone:
+    * Crea un repop nuevo y copia url 
+    -> Abre VScode vacio 
+    -> abre buscador ctrl p
+    -> escribe git clone y monto la url del repositorio
+    -> Nos pide el repositorio donde vamos aclonar
