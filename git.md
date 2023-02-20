@@ -98,7 +98,7 @@
 
 19. Crear Git clone:
     * Crea un repop nuevo y copia url 
-    -> Abre VScode vacio 
-    -> abre buscador ctrl p
-    -> escribe git clone y monto la url del repositorio
-    -> Nos pide el repositorio donde vamos aclonar
+    * Abre VScode vacio 
+    * abre buscador ctrl p
+    * escribe git clone y monto la url del repositorio
+    * Nos pide el repositorio donde vamos aclonar
