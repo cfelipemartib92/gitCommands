@@ -100,5 +100,43 @@
     * Crea un repop nuevo y copia url 
     -> Abre VScode vacio 
     -> abre buscador ctrl p
-    -> escribe git clone y monto la url del repositorio
-    -> Nos pide el repositorio donde vamos aclonar
+    -> escribe %_ git clone y monto la url del repositorio
+    -> Nos pide el repositorio donde vamos a clonar
+    -> desde e clon modificamos y mandamos el push desde los 3 puntos y lo monta al github
+    -> 
+
+20. Fork: Ramificaciónes y colaboraciones de todo el proyecto - PULL REQUEST
+    * Copia identica creada en github - en repo nuevo
+    * Baja el proyecto a su local para trabajarlo
+    * Sirve para usar bases otras personas
+    * Colaborar con otros programadores
+    * Pull request - sugerencia para que vea modificaciones en su proyecto 
+        * Se puede rechazar
+        * Se peude aceptar 
+            * Pull merge
+    1. Abrimos el repositorio
+    2. Click en fork - llenamos los datos y completamos el fork
+    3. Lo bajamos clonandolo a una carpeta en el local (carpeta, bash, %_ git clone url)
+    4. Hacemos ajustes y realizamos el commit
+    5. Lo montamos al repo 
+    6. Hacemos click en pull request (sub barra de menu) - click en new pull request
+    7. Desde el perfil del dueño se ve que viene un pull request -
+        * Se abre el proyecto
+        * vemos que dice en files changed y los commit que hayan hecho
+        * En review changes podemos:
+            * Comment
+            * Approve 
+            * Request Changes
+        * Merge pull request
+
+
+21. Cambiar credenciales:
+    * Configuración windows
+    * Cuentas (credenciales en el buscador)
+    * Administrador de credenciales
+    * Credenciales de windows
+    * Eliminar credenciales de github (quitar)
+    * Conectar
+
+22. Integrar Git con eclipse
+
