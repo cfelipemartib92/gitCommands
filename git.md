@@ -145,7 +145,7 @@
     * escribe git clone y monto la url del repositorio
     * Nos pide el repositorio donde vamos aclonar
 
-20. pull y push automático desde el simbolo de sincronizar de abajo a la izquierda
+23. pull y push automático desde el simbolo de sincronizar de abajo a la izquierda
     * (Tiene que estar en commit todos los archivos del VS)
 
 21. Creamos desde el github nueva rama
