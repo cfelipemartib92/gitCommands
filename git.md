@@ -140,3 +140,18 @@
 
 22. Integrar Git con eclipse
 
+    * Abre VScode vacio 
+    * abre buscador ctrl p
+    * escribe git clone y monto la url del repositorio
+    * Nos pide el repositorio donde vamos aclonar
+
+20. pull y push automático desde el simbolo de sincronizar de abajo a la izquierda
+    * (Tiene que estar en commit todos los archivos del VS)
+
+21. Creamos desde el github nueva rama
+    * Hacemos ajustes y podemos ver que nos informa # de ajustes above merge
+    * Podemos hacer comparación y mergeç
+    * Podemos hacer un pull request
+        * Hacemos click en "compare & pull request"
+        * Pull request
+        * Delete branch - para eliminar la rama que sobra
